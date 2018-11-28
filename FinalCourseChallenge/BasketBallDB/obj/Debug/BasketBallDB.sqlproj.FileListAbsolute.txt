@@ -1,0 +1,5 @@
+C:\Users\STUDENT\source\repos\FinalCourseChallenge\BasketBallDB\bin\Debug\BasketBallDB.dacpac
+C:\Users\STUDENT\source\repos\FinalCourseChallenge\BasketBallDB\bin\Debug\BasketBallDB.dll
+C:\Users\STUDENT\source\repos\FinalCourseChallenge\BasketBallDB\bin\Debug\BasketBallDB.pdb
+C:\Users\STUDENT\source\repos\FinalCourseChallenge\BasketBallDB\obj\Debug\BasketBallDB.dll
+C:\Users\STUDENT\source\repos\FinalCourseChallenge\BasketBallDB\obj\Debug\BasketBallDB.pdb

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalCourseChallenge", "FinalCourseChallenge\FinalCourseChallenge.csproj", "{CB1E1E7B-1E7A-46C5-83E0-5CD404BABD6B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BasketBallDB", "BasketBallDB\BasketBallDB.sqlproj", "{C46E3693-B7C2-493C-9213-46EBD5AA1F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB1E1E7B-1E7A-46C5-83E0-5CD404BABD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1E1E7B-1E7A-46C5-83E0-5CD404BABD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1E1E7B-1E7A-46C5-83E0-5CD404BABD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1E1E7B-1E7A-46C5-83E0-5CD404BABD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46E3693-B7C2-493C-9213-46EBD5AA1F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46E3693-B7C2-493C-9213-46EBD5AA1F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46E3693-B7C2-493C-9213-46EBD5AA1F05}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C46E3693-B7C2-493C-9213-46EBD5AA1F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46E3693-B7C2-493C-9213-46EBD5AA1F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46E3693-B7C2-493C-9213-46EBD5AA1F05}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419C267C-EBE1-41EE-9CF7-750D4641436B}
+	EndGlobalSection
+EndGlobal
